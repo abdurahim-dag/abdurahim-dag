@@ -1,5 +1,5 @@
 ### 👋
-Python back-end developer / Data Engineer.
+Python backend developer / Data Engineer.
 
 Контакты [email](mailto:mail@iragim.ru) - [telegram](https://t.me/abdurahim_dag)
 
