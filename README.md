@@ -10,3 +10,5 @@ Python backend developer / Data Engineer.
 <a href="https://github.com/abdurahim-dag/de-project-sprint-6">ETL Airflow for DWH DV on Vertica</a>
 
 <a href="https://github.com/abdurahim-dag/de-project-sprint-8">Spark Structured Streaming on Kafka</a>
+
+<a href="https://github.com/abdurahim-dag/de-project-sprint-9">K8s Kafka</a>
