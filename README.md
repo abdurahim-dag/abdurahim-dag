@@ -1,12 +1,11 @@
-### 👋
-Python Data Engineer / backend developer.
 
-Контакты [email](mailto:mail@iragim.ru) - [telegram](https://t.me/abdurahim_dag)
+Python Data Engineer / Dackend Developer.
 
-<a href="https://github.com/abdurahim-dag/de-project-4/blob/main/solution.md">Pipeline процесса ETL в Airflow на двух источниках(Postgresql, Mongodb), BI Metabase и слоями(STG, DDS, CDM) DWH(Снежинка) в Postgresql.</a>
+- 👋 Меня зовут Рагим
+- 👀 Увлекает бэкенд разработка на Python
+- 📕 Люблю получать знания и новые навыки
+- ✔ Цель приносить пользу
 
-<a href="https://github.com/abdurahim-dag/de-project-sprint-6">ETL Airflow for DWH DV on Vertica</a>
 
-<a href="https://github.com/abdurahim-dag/de-project-sprint-8">Spark Structured Streaming on Kafka</a>
 
-<a href="https://github.com/abdurahim-dag/de-project-sprint-9">K8s Kafka</a>
+[email](mailto:mail@iragim.ru) - [telegram](https://t.me/abdurahim_dag)
