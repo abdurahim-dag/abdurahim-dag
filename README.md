@@ -21,4 +21,4 @@ Python Data Engineer / Dackend Developer.
 <img alt="Bash" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-[email](mailto:mail@iragim.ru) - [telegram](https://t.me/abdurahim_dag)
+[email](mailto:ragimatamov@ya.ru) - [telegram](https://t.me/abdrhmdag)
