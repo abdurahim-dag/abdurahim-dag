@@ -20,4 +20,4 @@ Software Developer
 
 Контакты
 ---
-[email](mailto:ragimatamov@ya.ru) - [telegram](https://t.me/abdrhmdag)
+[email](mailto:ragimatamov@ya.ru) - [telegram](https://t.me/ragimdev)
